@@ -25,13 +25,14 @@ Each team matchup is simulated as a Best of 3 many times to get the odds of each
 
   * By theoretically placing bets based (using Kelly-Criterion to size each bet) solely on what the model determined to have the highest expected value during VCT North America Challengers 2 - 2022, there was a return of **11.72%**.
 
-    ![image](https://github.com/Renzjordan1/Valorant-Esports-Odds/assets/38296706/7364bb68-0faa-47d7-9126-f27dc404876c)
+    ![image](https://github.com/Renzjordan1/Valorant-Esports-Odds/assets/38296706/f86a19bf-dd4c-4d5d-8b74-b13751019a5a)
 
 
 
   * By doing the same but with placing more probable bets with slightly less expected value as the highest, there was a return of **66.62%**.
  
-    ![image](https://github.com/Renzjordan1/Valorant-Esports-Odds/assets/38296706/702840d0-7d13-4423-aa62-91456a4379ec)
+    ![image](https://github.com/Renzjordan1/Valorant-Esports-Odds/assets/38296706/2fc07898-ede7-4b89-86c0-0a6e15510785)
+
 
   ****There is no guarantee that this will be the actual result for future bets.***
 
