@@ -29,7 +29,8 @@ Each team matchup is simulated as a Best of 3 many times to get the odds of each
 
 
 
-  * By doing the same but with placing more probable bets with slightly less expected value as the highest, there was a return of **66.62%**.
+  * By doing the same but with placing more probable bets with slightly less expected value as the highest, there was a return of **66.62%**. Though, hindsight
+   is 20/20.
  
     ![image](https://github.com/Renzjordan1/Valorant-Esports-Odds/assets/38296706/2fc07898-ede7-4b89-86c0-0a6e15510785)
 
